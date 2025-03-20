@@ -1,0 +1,90 @@
+[
+    {
+        "title": "Sabona Marara",
+        "place": "amboo",
+        "description": "Magaalaa amboo keessatti kan argamuu kutaa 2 kan qabuu",
+        "imagePath": "https://sabonawebsite-com.github.io/mana_kiraa/680.png",
+        "price": 1000,
+        "phone":"0928629040"
+    },
+    {
+        "title": "Gadisaa Abara",
+        "place": "finchaa",
+        "description": "Magaalaa finchaa keessatti argamuu kutaa 2 kan qabuu",
+        "imagePath": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdWRzPFQZcEeZkPJt33ifIgChHQ9Vfm0ZLhA&s",
+        "price": 133,
+        "phone":"0928629640"
+    },
+    {
+        "title": "Etafaa Tarikuu",
+        "place": "burayu",
+        "description": "Magaalaa buree keessatti argamuu kutaa 2 kan qabuu",
+        "imagePath": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdWRzPFQZcEeZkPJt33ifIgChHQ9Vfm0ZLhA&s",
+        "price": 156,
+        "phone":"0928629040"
+    },
+    {
+        "title": "Guyyoo Gadaa",
+        "place": "yabello",
+        "description": "yabellotti kan argamu kutaa  5 kan qabuu",
+        "imagePath": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRci3XkpwlHu1150RK9V8xgXY9eQ1jQM5MH1g&s",
+        "price": 4000,
+        "phone":"0928629045"
+    },
+    {
+        "title": "Sabona Marara",
+        "place": "amboo",
+        "description": "Magaalaa amboo keessatti argamuu kutaa 2 kan qabuu",
+        "imagePath": "https://sabonawebsite-com.github.io/mana_kiraa/481.png",
+        "price": 1000,
+        "phone":"0928629040"
+    },
+    {
+        "title": "Gadisaa Abara",
+        "place": "finchaa",
+        "description": "Magaalaa finchaa keessatti kan argamuu kutaa 2 kan qabuu",
+        "imagePath": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLbTGWnADS-iYHrvrCjM5BmmJ4RIDr_mx0Xg&s",
+        "price": 1600,
+        "phone":"0928629640"
+    },
+    {
+        "title": "Etafaa Tarikuu",
+        "place": "burayu",
+        "description": "Magaalaa burayu keessatti kan argamuu kutaa 4 kan qabuu",
+        "imagePath": "https://i.ytimg.com/vi/vZHPJPRNnQA/maxresdefault.jpg",
+        "price": 2000,
+        "phone":"0928629040"
+    },
+    {
+        "title": "Guyyoo Gadaa",
+        "place": "yabello",
+        "description": "yabellotti kan argamu kutaa cisicha 3 kan qabuu",
+        "imagePath": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7NaJOY7uYXMGNGrDyAIEgZ51HPX3exQS_cA&s",
+        "price": 1800,
+        "phone":"0928629045"
+    },
+    {
+        "title": "Gadisaa Abara",
+        "place": "Shanbuu",
+        "description": "yabellotti kan argamu kutaa cisicha 4 kan qabuu",
+        "imagePath": "https://www.google.com/imgres?q=home%20images&imgurl=https%3A%2F%2Fhips.hearstapps.com%2Fhmg-prod%2Fimages%2F3799-flamingo-ave-siesta-key-print-005-14-flamingo-ave-sarasota-fl-4200x2799-300dpi-1675178841.jpg%3Fcrop%3D0.9992857142857143xw%3A1xh%3Bcenter%2Ctop%26resize%3D980%3A*&imgrefurl=https%3A%2F%2Fwww.housebeautiful.com%2Fdesign-inspiration%2Freal-estate%2Fg42720290%2Fluxury-home-features%2F&docid=uEYFIQdMLciW4M&tbnid=WzKWrKmZMbVUsM&vet=12ahUKEwjtrY_r1ZmMAxXTgP0HHbkCM2EQM3oECEgQAA..i&w=980&h=653&hcb=2&ved=2ahUKEwjtrY_r1ZmMAxXTgP0HHbkCM2EQM3oECEgQAA",
+        "price": 1500,
+        "phone":"0928629111"
+    },
+    {
+        "title": "Usman badhasa",
+        "place": "Arsii",
+        "description": "Arsii tti kan argamu kutaa cisicha 2 kan qabuu",
+        "imagePath": "data:image/jpeg;base64,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",
+        "price": 1800,
+        "phone":"0928629045"
+    },
+    {
+        "title": "Esaayas Abdi",
+        "place": "Asallaa",
+        "description": "Asallaa tti kan argamu kutaa cisicha 4 kan qabuu",
+        "imagePath": "https://m.xcite.com/media/catalog/product/cache/1/small_image/350x/9df78eab33525d08d6e5fb8d27136e95/i/m/image_template_2_-_2020-11-23t113708.928.jpg",
+        "price": 2000,
+        "phone":"0928629035"
+    }
+]
